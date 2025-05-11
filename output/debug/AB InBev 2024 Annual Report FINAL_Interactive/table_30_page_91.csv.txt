@@ -1,0 +1,4 @@
+['', '', '', '', '', None, None]
+['', 'Property, plant and equipment owned', '', '21 295', '', '24 092', '']
+['', 'Property, plant and equipment leased (right-of-use assets)', '', '2 209', '', '2 726', '']
+['', 'Total property, plant and equipment', '', '23 503', '', '26 818', '']

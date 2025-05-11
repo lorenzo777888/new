@@ -1,0 +1,6 @@
+['', '', '', '', '', '', '']
+['', 'Net foreign exchange gains/(losses)', '', None, None, None, None]
+['', 'Net gains/(losses) on hedging instruments', '', None, None, None, None]
+['', 'Hyperinflation monetary adjustments', '', None, None, None, None]
+['', 'Other financial income/(expense),', '', None, None, None, None]
+[None, 'including bank fees and taxes', None, None, None, None, None]

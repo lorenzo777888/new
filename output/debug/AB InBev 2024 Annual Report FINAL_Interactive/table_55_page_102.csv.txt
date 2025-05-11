@@ -1,0 +1,5 @@
+['', '.', '', '', None, None, '', None]
+['', 'Issued ordinary and restricted shares at 1 January, net of treasury shares', '', None, None, None, None, None]
+['', 'Effect of stock lending', '', None, None, None, None, None]
+['', 'Effect of delivery of treasury shares and share buyback programs', '', None, None, None, None, None]
+['', 'Weighted average number of ordinary and restricted shares at 31 December', '', '', '2 003', '', '2 016', '']

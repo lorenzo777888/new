@@ -1,0 +1,8 @@
+['', '2024']
+['', 'Total sales\nfrom contracts\nSales at a with Sales from\npoint in time Sales over time customers other sources Total sales']
+['Western Europe', '2,698 1,254 3,951 28 3,978']
+['North America', '4,958 2,602 7,560 93 7,655']
+['Other mature geographies', '893 401 1,294 231 1,526']
+['Mature geographies', '8,549 4,256 12,805 353 13,159']
+['Growth geographies', '3,836 1,026 4,861 1 4,863']
+['Sales', '12,385 5,282 17,667 354 18,021']

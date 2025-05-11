@@ -1,0 +1,4 @@
+['', '', '', '', None, None, '', None, None]
+['', 'Re-measurements of post-employment benefits', '', '', '(48)', '', '', '(13)', '']
+['', 'Exchange differences, cash flow and net investment hedges', '', '', '10', '', '', '(41)', '']
+['', 'Income tax (losses)/gains', '', '', '(38)', '', '', '(54)', '']

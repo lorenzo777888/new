@@ -1,0 +1,7 @@
+['2024']
+['Total sales\nfrom contracts\nSales at a with Sales from\npoint in time Sales over time customers other sources Total sales']
+['5,655 3,070 8,725 65 8,790']
+['2,959 1,886 4,845 289 5,134']
+['3,471 15 3,486 3,486']
+['300 311 611 611']
+['12,385 5,282 17,667 354 18,021']

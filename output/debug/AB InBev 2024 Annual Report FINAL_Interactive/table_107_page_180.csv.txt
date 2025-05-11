@@ -1,0 +1,2 @@
+[None, None, None, '4,533', None, None, None, None, None]
+['', 'TOTAL (A + B)', '', '', '4,620', '', '', '100.0%', '']

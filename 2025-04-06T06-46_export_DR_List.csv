@@ -1,0 +1,113 @@
+Standard Code,Description
+ESRS 1,General Requirements
+ESRS 2,General Disclosures
+ESRS 2 BP-1,General basis for preparation of sustainability statements
+ESRS 2 BP-2,Disclosures in relation to specific circumstances
+ESRS 2 GOV-1,"The role of the administrative, management and supervisory bodies"
+ESRS 2 GOV-2,"Information provided to the undertaking’s administrative, management and supervisory bodies"
+ESRS 2 GOV-3,Integration of sustainability-related performance in incentive schemes
+ESRS 2 GOV-4,Statement on due diligence
+ESRS 2 GOV-5,Risk management and internal controls over sustainability reporting
+ESRS 2 SBM-1,"Strategy, business model and value chain"
+ESRS 2 SBM-2,Interests and views of stakeholders
+ESRS 2 SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+ESRS 2 IRO-1,"Description of the process to identify and assess material impacts, risks and opportunities"
+ESRS 2 IRO-2,Disclosure requirements in ESRS covered by the undertaking’s sustainability statement
+ESRS E1,Climate Change
+E1-1,Transition plan for climate change mitigation
+E1-2,Policies related to climate change mitigation and adaptation
+E1-3,Actions and resources in relation to climate change policies
+E1-4,Targets related to climate change mitigation and adaptatio
+E1-5,Energy consumption and mix
+E1-6,"Gross Scopes 1, 2, 3 and Total GHG emissions"
+E1-7,GHG removals and GHG mitigation projects financed through carbon credits
+E1-8,Internal carbon pricing
+E1-9,Anticipated financial effects from material physical and transition risks and potential climate-related opportunities
+E1-GOV-3,Integration of sustainability related performance in incentive schemes
+E1-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business mode"
+E1-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunities"
+ESRS E2,Pollution
+E2-1,Policies related to pollution
+E2-2,Actions and resources related to pollution
+E2-3,Targets
+E2-4,"Pollution of air, water and soil"
+E2-5,Substances of concern and substances of very high concern
+E2-6,"Anticipated financial effects from pollution-related impacts, risks and opportunities"
+E2-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunities"
+ESRS E3,Water and Marine Resources
+E3-1,Policies related to water and marine resources
+E3-2,Actions and resources related to water and marine resources
+E3-3,Targets related to water and marine resources
+E3-4,Water consumption
+E3-5,"Anticipated financial effects from water and marine resources-related impacts, risks and opportunities"
+E3-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunities"
+ESRS E4,Biodiversity and Ecosystems
+E4-1,Transition plan and consideration of biodiversity and ecosystems in strategy and business model
+E4-2,Policies related to biodiversity and ecosystems
+E4-3,Actions and resources related to biodiversity and ecosystems
+E4-4,Targets related to biodiversity and ecosystems
+E4-5,Impact metrics related to biodiversity and ecosystems change
+E4-6,Anticipated financial effects from biodiversity and ecosystem-related risks and opportunities
+E4-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+E4-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunities"
+ESRS E5,Resource Use and Circular Economy
+E5-1,Policies related to resource use and circular economy
+E5-2,Actions and resources related to resource use and circular economy
+E5-3,Targets related to resource use and circular economy
+E5-4,Resource inflows
+E5-5,Resource outflows
+E5-6,"Anticipated financial effects from resource use and circular economy-related impacts, risks and opportunities"
+E5-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunities"
+ESRS S1,Own Workforce
+S1-1,Policies related to own workforce
+S1-2,Processes for engaging with own workers and workers’ representatives about impacts
+S1-3,Processes to remediate negative impacts and channels for own workers to raise concerns
+S1-4,"Taking action on material impacts on own workforce, and approaches to mitigating material risks and pursuing material opportunities related to own workforce, and effectiveness of those actions"
+S1-5,"Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities"
+S1-6,Characteristics of the undertaking’s employees
+S1-7,Characteristics of non-employee workers in the undertaking’s own workforce
+S1-8,Collective bargaining coverage and social dialogue
+S1-9,Diversity metrics
+S1-10,Adequate wages
+S1-11,Social protection
+S1-12,Persons with disabilities
+S1-13,Training and skills development metrics
+S1-14,Health and safety metrics
+S1-15,Work-life balance metrics
+S1-16,Compensation metrics (pay gap and total compensation) 
+S1-17,"Incidents, complaints and severe human rights impacts"
+S1-SBM-2,Interests and views of stakeholders
+S1-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+ESRS S2,Workers in the Value Chain
+S2-1,Policies related to value chain workers
+S2-2,Processes for engaging with value chain workers about impacts
+S2-3,Processes to remediate negative impacts and channels for value chain workers to raise concerns
+S2-4,"Taking action on material impacts on value chain workers, and approaches to managing material risks and pursuing material opportunities related to value chain workers, and effectiveness of those action"
+S2-5,"Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities "
+S2-SBM-2,Interests and views of stakeholders
+S2-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+ESRS S3,Affected Communities
+S3-1,Policies related to affected communities
+S3-2,Processes for engaging with affected communities about impacts
+S3-3,Processes to remediate negative impacts and channels for affected communities to raise concerns
+S3-4,"Taking action on material impacts on affected communities, and approaches to managing material risks and pursuing material opportunities related to affected communities, and effectiveness of those actions"
+S3-5,"Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities"
+S3-SBM-2,Interests and views of stakeholders
+S3-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+ESRS S4,Consumers and End-Users
+S4-1,Policies related to consumers and end-users
+S4-2,Processes for engaging with consumers and end-users about impacts
+S4-3,Processes to remediate negative impacts and channels for consumers and end-users to raise concerns
+S4-4,"Taking action on material impacts on consumers and end-users, and approaches to managing material risks and pursuing material opportunities related to consumers and end-users, and effectiveness of those actions"
+S4-5,"Targets related to managing material negative impacts, advancing positive impacts, and managing material risks and opportunities	"
+S4-SBM-2,Interests and views of stakeholders
+S4-SBM-3,"Material impacts, risks and opportunities and their interaction with strategy and business model"
+ESRS G1,Business Conduct
+G1-1,Business conduct policies and corporate culture
+G1-2,Management of relationships with suppliers
+G1-3,Prevention and detection of corruption and bribery
+G1-4,Incidents of corruption or bribery
+G1-5,Political influence and lobbying activities
+G1-6,Payment practices
+G1-IRO-1,"Description of the processes to identify and assess material impacts, risks and opportunitie"
+G1-GOV-1,"The role of the administrative, supervisory and management bodies"

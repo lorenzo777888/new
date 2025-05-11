@@ -1,0 +1,8 @@
+['', '', '', '', None, None, '', None, None]
+['', 'At the end of the previous year', '', '', '2 019', '', '', '1 736', '']
+['', 'Changes during the period', '', '', '-', '', '', '-', '']
+['', 'At the end of the current period', '', '', '2 019', '', '', '1 736', '']
+['', '.', '', '', None, None, '', None, None]
+['', 'Of which:', '', '', None, None, '', None, None]
+['', 'Ordinary shares', '', '', '1 797', '', '', None, None]
+['', 'Restricted shares', '', '', '222', '', '', None, None]

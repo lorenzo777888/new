@@ -1,0 +1,4 @@
+['Weighted average\nOptions exercise price']
+['1,929,000 24.42']
+['(291,236) 24.42']
+['1,637,764 24.42']

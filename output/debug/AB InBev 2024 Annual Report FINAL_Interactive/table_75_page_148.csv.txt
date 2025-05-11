@@ -1,0 +1,4 @@
+['Farmers', '', 'The company could not brew its beer without the high-quality', '', '• Direct farmer engagement and training\n• AB InBev agronomy teams']
+[None, None, 'agricultural ingredients provided by farmers around the world. AB', None, None]
+[None, None, 'InBev is dedicated to fostering long-term and mutually beneficial', None, None]
+[None, None, 'relationships with farmers.', None, None]

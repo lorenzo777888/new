@@ -1,0 +1,2 @@
+['', 'Million US dollar', '', '', '31 December 2024', '', '', '31 December 2023', '']
+['', '', '', '', None, None, '', None, None]

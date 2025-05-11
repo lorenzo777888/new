@@ -1,0 +1,4 @@
+['Year BES improvement', None]
+['2022 • BES Ambassador training at our manufacturing sites\n• Manufacturing sites delivered some 80 potential measures to enhance biodiversity on-site\n• Tracked BES performance at our manufacturing sites with a ecosystem services mapping tool\nto identify ecosystems that provide services to our facilities', None]
+['2023 • Implemented 23 biodiversity improvement measures selected for manufacturing sites\n• Completed activities, as planting native trees in India, creating flower gardens in China, and\ncreating habitats for endangered bee species in Central America', None]
+['2024', '• Established an internal metric to drive biodiversity activities in manufacturing sites based on\nland-use\n• Implemented 16 BES improvements on 21,000 m2 in our manufacturing sites\n• Implemented four BES improvements impacting 35,000 m2\n• Supporting and engaging with local communities']

@@ -1,0 +1,7 @@
+['', '', '', '', '', None, None]
+['', 'Investment in unquoted companies', '', '139', '', '151', '']
+['', 'Investment in debt securities', '', '29', '', '27', '']
+['', 'Non-current investments', '', '168', '', '178', '']
+['', '', '', '', '', None, None]
+['', 'Investment in debt securities', '', '221', '', '67', '']
+['', 'Current investments', '', '221', '', '67', '']

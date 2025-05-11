@@ -1,0 +1,4 @@
+['', '.', '', '', '']
+['', 'Underlying profit', '', None, None]
+['', 'Weighted average number of ordinary and restricted shares', '', None, None]
+['', 'Underlying EPS', '', None, None]

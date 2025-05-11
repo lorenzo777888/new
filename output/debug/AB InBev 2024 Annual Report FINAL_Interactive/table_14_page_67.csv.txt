@@ -1,0 +1,5 @@
+['', '', '', '', None, None]
+['', 'Net increase/(decrease) in cash and cash equivalents', '', '', None, None]
+['', 'Cash and cash equivalents less bank overdrafts at beginning of year', '', '', None, None]
+['', 'Effect of exchange rate fluctuations', '', '', None, None]
+['', 'Cash and cash equivalents less bank overdrafts at end of period', '', '', '20', '']

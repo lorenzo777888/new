@@ -1,0 +1,5 @@
+['', '.', '', None, None, None, None]
+['', 'Income tax and social contribution', '', '10 525', '', '13 141', '']
+['', 'Value-added and excise taxes', '', '4 544', '', '5 528', '']
+['', 'Other taxes', '', '622', '', '953', '']
+['', None, None, '15 691', '', '19 622', '']

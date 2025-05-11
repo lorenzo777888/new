@@ -1,0 +1,6 @@
+['', '.', '', '', None, '', None, None]
+['', 'Profit attributable to equity holders of AB InBev', '', '5 855', None, '', '5 341', '']
+['', 'Net impact of non-underlying items on profit (refer to Note 8)', '', None, None, None, None, None]
+['', 'Profit before non-underlying items, attributable to equity holders of AB InBev', '', None, None, None, None, None]
+['', 'Hyperinflation impacts', '', None, None, None, None, None]
+['', 'Underlying profit', '', '', '7 061', '', '6 158', '']

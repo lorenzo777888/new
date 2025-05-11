@@ -1,0 +1,8 @@
+['Weighted average\nremaining contractual\nNumber of options Intrinsic value term in years']
+['']
+['3,396,539 8 8.1']
+['3,396,539 8 8.1']
+['']
+['']
+['1,637,764 1 8.0']
+['1,637,764 1 8.0']

@@ -1,0 +1,4 @@
+['', '.', '', '', None, None, '', None]
+['', 'Weighted average number of ordinary and restricted shares at 31 December', '', '2 003', None, None, '2 016', '']
+['', 'Effect of share options, PSUs and restricted stock units', '', None, None, None, None, None]
+['', 'Weighted average number of ordinary and restricted shares (diluted) at 31 December', '', '', '2 044', '', '2 054', '']

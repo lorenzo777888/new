@@ -1,0 +1,2 @@
+['', 'Net rental and other operating income', '']
+['', 'Other operating income/(expenses)', '']

@@ -1,0 +1,5 @@
+['', '', '', '', '', '', '']
+['', 'Cash and cash equivalents', '', None, None, None, None]
+['', 'Investments in debt securities held for trading', '', None, None, None, None]
+['', 'Other loans and receivables', '', None, None, None, None]
+['', 'Total', '', None, None, None, None]

@@ -1,0 +1,6 @@
+['', 'Total direct and indirect GHG', '', '5.49', '5.22', None, None, '4.87', None, None, '4.44', None, None, '4.14', None, None, '3.68', None, None, '3.39', None, None, '3.19', None, None]
+[None, 'emissions (Scopes 1 and 2 in million metric tonnes', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, 'o f CO eq)\n2', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+['', 'Scopes 1, 2 and 3 GHG emissions', '', '58.67', '55.15', None, None, '53.92', None, None, '52.45', None, None, '50.03', None, None, '47.29', None, None, '45.24', None, None, '41.39', None, None]
+[None, 'per hectoliter of production (in kg COeq/hl)\n2', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+['', '% Renewable electricity: operational15', '', '/', '', '16.9%', '', '', '20.9%', '', '', '32.2%', '', '', '41.2%', '', '', '67.6%', '', '', '73.6%', '', '', '81.2%', '']

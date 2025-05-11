@@ -1,0 +1,7 @@
+['', '', '', '', '']
+['', 'Colombia', '', None, None]
+['', 'Rest of Middle Americas', '', None, None]
+['', 'South Africa', '', None, None]
+['', 'Rest of Africa', '', None, None]
+['', 'Rest of Asia Pacific', '', None, None]
+['', 'United States', '', None, None]

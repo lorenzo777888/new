@@ -1,0 +1,1 @@
+['', 'Total GHG emissions (location-based) per net revenue (metric tonnes COeq/million USD)\n2', '', '', '416', '', '', '457', '', '', '-9%', '']

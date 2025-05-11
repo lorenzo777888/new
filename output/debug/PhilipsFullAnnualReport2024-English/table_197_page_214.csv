@@ -1,0 +1,88 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Financial year,Year,,,Substantial Contribution Criteria,,,,,,DNSH criteria (’Does Not Significantly Harm’)(h),,,,,,,,,
+Economic Activities (1),"Code (a)
+(2)",OpEx (3),"Proportion
+of OpEx,
+2024 (4)","Climate
+Change
+Mitigation
+(5)","Climate
+Change
+Adaptation
+(6)","Water
+(7)","Pollution
+(8)","Circular
+Econom
+y (9)","Biodiversity
+(10)","Climate
+Change
+Mitigation
+(11)","Climate
+Change
+Adaptation
+(12)","Water
+(13)","Pollution
+(14)","Circular
+Economy
+(15)","Biodiversity
+(16)","Minimum
+Safeguards
+(17)","Proportion
+of
+Taxonomy
+aligned
+(A.1.) or
+eligible
+(A.2.) OpEx,
+2023 (18)","Category
+enabling
+activity
+(19)","Category
+transitional
+activity (20)"
+,,EUR,%,"Y; N; N/
+EL (b) (c)","Y; N; N/
+EL (b) (c)","Y; N;
+N/EL
+(b) (c)","Y; N;
+N/EL
+(b) (c)","Y; N;
+N/EL
+(b) (c)","Y; N; N/
+EL (b) (c)",Y/N,Y/N,Y/N,Y/N,Y/N,Y/N,Y/N,%,E,T
+A. TAXONOMY-ELIGIBLE ACTIVITIES,,,,,,,,,,,,,,,,,,,
+A.1. Environmentally sustainable activities (Taxonomy-aligned),,,,,,,,,,,,,,,,,,,
+"OpEx of environmentally sustainable activities
+(Taxonomy-aligned) (A.1)",,0,0%,,,,,,,,,,,,,,0%,,
+Of which Enabling,,0,0%,,,,,,,,,,,,,,0%,E,
+Of which Transitional,,0,0%,,,,,,,,,,,,,,0%,,T
+A.2 Taxonomy-Eligible but not environmentally sustainable activities (not Taxonomy-aligned activities) (g),,,,,,,,,,,,,,,,,,,
+,,,,"EL; N/EL
+(f)","EL; N/EL
+(f)","EL; N/
+EL (f)","EL; N/
+EL (f)","EL; N/
+EL (f)","EL; N/EL
+(f)",,,,,,,,,,
+"Manufacture of electrical and
+electronic equipment",CE1.2,"1,556.73",69.5%,N/EL,N/EL,N/EL,N/EL,EL,N/EL,,,,,,,,67.9%,,
+"Provision of IT/OT data-driven
+solutions",CE4.1,256.96,11.5%,N/EL,N/EL,N/EL,N/EL,EL,N/EL,,,,,,,,12.5%,,
+"Repair, refurbishment and
+remanufacturing",CE5.1,0.0,0%,N/EL,N/EL,N/EL,N/EL,EL,N/EL,,,,,,,,0%,,
+Sale of spare parts,CE5.2,4.73,0.2%,N/EL,N/EL,N/EL,N/EL,EL,N/EL,,,,,,,,0%,,
+"Product-as-a-service and other
+circular use- and result-oriented
+service models",CE5.5,99.73,4.5%,N/EL,N/EL,N/EL,N/EL,EL,N/EL,,,,,,,,4.4%,,
+"OpEx of Taxonomy-eligible but not
+environmentally sustainable activities
+(not Taxonomy-aligned activities)
+(A.2)",,"1,918.15",85.7%,0%,0%,0%,0%,"85.7
+%",0%,,,,,,,,84.8%,,
+"A. OpEx of Taxonomy eligible
+activities (A.1+A.2)",,"1,918.15",85.7%,0%,0%,0%,0%,"85.7
+%",0%,,,,,,,,84.8%,,
+B. TAXONOMY-NON-ELIGIBLE ACTIVITIES,,,,,,,,,,,,,,,,,,,
+"OpEx of Taxonomy-non-eligible
+activities",,320.54,14.3%,,,,,,,,,,,,,,15.2%,,
+Total,,"2,238.69",100%,,,,,,,,,,,,,,100%,,

@@ -1,0 +1,3 @@
+['', 'Payment of lease liabilities', '', '']
+['', 'Derivative financial instruments', '', '']
+['', 'Sale/(acquisition) of non-controlling interests', '', None]

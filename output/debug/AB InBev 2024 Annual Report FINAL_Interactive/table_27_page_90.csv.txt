@@ -1,0 +1,2 @@
+['', '', '', '', None]
+['', 'Total income tax expense in the income statement', '', '', '(3 152)']

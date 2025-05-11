@@ -1,0 +1,7 @@
+['', '.', '']
+['', 'Balance at 1 January', '']
+['', 'Effect of movements in foreign exchange', '']
+['', 'Dividends received', '']
+['', 'Share of results of associates', '']
+['', 'Non-underlying share of results of associates', '']
+['', 'Balance at 31 December', '']

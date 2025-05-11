@@ -1,0 +1,6 @@
+['Drive Patient Safety & Quality as\nhighest priority in the\norganization', 'All members of Board of\nManagement', '7.50%']
+['Improve market share and\ncustomer experience', 'Roy Jakobs', '7.50%']
+['Improve market share and\ncustomer experience', 'Charlotte Hanneman', None]
+['Manage legal issues', 'Marnix van Ginneken', None]
+['Drive focused strategy to win in\nthe market and simplify the\noperating model', 'All members of Board of\nManagement', '7.50%']
+['Deliver on ESG Commitments', 'All members of Board of\nManagement', '7.50%']
